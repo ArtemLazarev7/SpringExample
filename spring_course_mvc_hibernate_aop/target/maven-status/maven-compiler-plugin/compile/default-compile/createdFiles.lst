@@ -1,0 +1,7 @@
+com\lazarev\spring\mvc_hibernate_aop\controller\MyController.class
+com\lazarev\spring\mvc_hibernate_aop\service\EmployeeServiceImpl.class
+com\lazarev\spring\mvc_hibernate_aop\service\EmployeeService.class
+com\lazarev\spring\mvc_hibernate_aop\dao\EmployeeDAO.class
+com\lazarev\spring\mvc_hibernate_aop\aspect\MyLoggingAspect.class
+com\lazarev\spring\mvc_hibernate_aop\dao\EmployeeDAOImpl.class
+com\lazarev\spring\mvc_hibernate_aop\entity\Employee.class
